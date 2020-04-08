@@ -8,6 +8,18 @@ https://www.kaggle.com/kimjihoo/coronavirusdataset
 <br>
 COVID-19 in South Korea Dataset by DS4C
 
+*   **Case.csv** (Data of COVID-19 infection cases)
+*   **PatientInfo.csv** (Epidemiological data of COVID-19 patients)
+*   **PatientRoute.csv** (Route data of COVID-19 patients)
+*   **Region.csv** (Location and statistical data of the regions)
+*   **SearchTrend.csv** (Trend data of the keywords searched in NAVER which is one of the largest portals)
+*   **SeoulFloating.csv** (Data of floating population in Seoul, South Korea (from SK Telecom Big Data Hub))
+*   **Time.csv** (Time series data of COVID-19 status)
+*   **TimeAge.csv** (Time series data of COVID-19 status in terms of the age)
+*   **TimeGender.csv** (Time series data of COVID-19 status in terms of gender)
+*   **TimeProvince.csv** (Time series data of COVID-19 status in terms of the Province)
+*   **Weather.csv** (Data of the weather in the regions)
+
 Dataset consists of time-series data from March 2, 2020 to March 30, 2020.
 
 # Installation
