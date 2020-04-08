@@ -4,9 +4,7 @@ This repository is a analysis and visualization of COVID-19 Pandemic spread in S
 
 # Dataset
 
-https://www.kaggle.com/kimjihoo/coronavirusdataset
-<br>
-COVID-19 in South Korea Dataset by DS4C
+[COVID-19 in South Korea Dataset by DS4C](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 
 *   **Case.csv** (Data of COVID-19 infection cases)
 *   **PatientInfo.csv** (Epidemiological data of COVID-19 patients)
