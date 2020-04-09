@@ -39,3 +39,6 @@ or click `Download ZIP` in right panel of repository and extract it.
 # Visualization Preview
 
 ![Growth and Decease Rate by Gender](graphs/growth_decease_gender.png)
+![COVID-19 Cases by Gender](graphs/case_by_province_bar.png)
+![COVID-19 Case Distribution - Line](graphs/case_by_province_line.png)
+![COVID-19 Case Distribution - Pie](graphs/case_dist_pie.png)
