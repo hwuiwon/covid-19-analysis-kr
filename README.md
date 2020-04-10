@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/hwuiwon/covid-19-analysis-kr/blob/master/LICENSE)
 
-This repository is a analysis and visualization of COVID-19 Pandemic spread in South Korea.
+This repository is an analysis and visualization of COVID-19 Pandemic spread in South Korea.
 
 # Dataset
 
@@ -40,5 +40,5 @@ or click `Download ZIP` in right panel of repository and extract it.
 
 ![Growth and Decease Rate by Gender](graphs/growth_decease_gender.png)
 ![COVID-19 Cases by Gender](graphs/case_by_province_bar.png)
+![COVID-19 Tests Conducted](graphs/covid_test_conducted.png)
 ![COVID-19 Case Distribution - Line](graphs/case_by_province_line.png)
-![COVID-19 Case Distribution - Pie](graphs/case_dist_pie.png)
