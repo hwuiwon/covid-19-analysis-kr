@@ -20,7 +20,7 @@ This repository is a analysis and visualization of COVID-19 Pandemic spread in S
 *   **TimeProvince.csv** (Time series data of COVID-19 status in terms of the Province)
 *   **Weather.csv** (Data of the weather in the regions)
 
-Dataset consists of time-series data from March 2, 2020 to March 30, 2020.
+Dataset consists of time-series data from January 20, 2020 to March 30, 2020.
 
 # Installation
 
