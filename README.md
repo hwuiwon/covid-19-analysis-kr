@@ -2,7 +2,8 @@
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/hwuiwon/covid-19-analysis-kr/blob/master/LICENSE)
 
-This repository is an analysis and visualization of COVID-19 Pandemic spread in South Korea.
+This repository is an analysis and visualization of COVID-19 Pandemic spread in South Korea.<br>
+See this in [Kaggle](https://www.kaggle.com/hwuiwonk/covid-19-in-south-korea#covid-19-in-South-Korea)
 
 # Dataset
 
